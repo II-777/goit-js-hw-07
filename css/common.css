@@ -13,6 +13,22 @@ body {
   line-height: 1.5;
 }
 
+/* task-2 */
 .gallery-item {
   width: 100%;
 };
+
+/* task-4 */
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 32px;
+}
